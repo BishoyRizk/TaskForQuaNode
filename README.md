@@ -164,7 +164,7 @@ for a database adapter
 
 import * as mydb from ./adapters/mydb
 
-await mydb.connect({ url db url })  
+await mydb.connect({  db url })  
 const result = await mydb.query(select * from users)  
 await mydb.disconnect()
 
