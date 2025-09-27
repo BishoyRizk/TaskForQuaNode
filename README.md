@@ -1,8 +1,9 @@
-# TaskForQuaNode
+# how to contribute a new database adapter or aervice
 
 
 
-how to contribute a new database adapter or aervice
+
+
 introduction
 
 This project follows a functional programming style
