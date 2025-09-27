@@ -86,7 +86,7 @@ export const disconnect = () => {
 import * as db from ../src/adapters/db
 
 test(connect should establish a connection async () => {
-  const result = await db.connect({ url example url })
+  const result = await db.connect({ url })
   expect(result).toBeTruthy()
 })
 
