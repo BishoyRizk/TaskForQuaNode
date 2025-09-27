@@ -35,6 +35,7 @@ The codebase is organized like this
 
 
 i copied this shape to make it easy to be understanded
+
 src  
  ├── adapters  
  │    ├── mongodb  
